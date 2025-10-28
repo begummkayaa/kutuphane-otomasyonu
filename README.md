@@ -7,13 +7,15 @@ Amacı, geleneksel kütüphane yönetimini dijitalleştirerek zaman ve işgücü
 ---
 
 ## 🚀 Temel Özellikler
-Bu proje ile bir kütüphanenin temel işlemlerini dijital olarak yönetebilirsiniz:
+Bu proje ile bir kütüphanenin temel işlemlerini dijital olarak yönetebilir ve üyelere zengin bir deneyim sunabilirsiniz:
 
-* 📚 **Kitap Yönetimi:** Kitapları ekleyin, güncelleyin, silin ve kütüphane envanterinde kolayca arayın.
+* 📚 **Kaynak Yönetimi:** Kitaplar, dergiler ve makaleler dahil tüm kütüphane kaynaklarını ekleyin, güncelleyin, silin, arayın ve düzenleyin.
 * 👤 **Üye Yönetimi:** Kütüphane üyelerinin kayıtlarını oluşturun, bilgilerini düzenleyin ve üye listesini görüntüleyin.
 * 🔄 **Emanet İşlemleri:** Kitap ödünç verme (emanet) ve iade alma işlemlerini kaydedin.
-* 📅 **Rezervasyon İşlemleri:** Üyelerin, o an başkasında olan bir kitabı veya mevcut bir kitabı ayırtmasını (rezerve etmesini) sağlama.
-* 📈 **Takip & Raporlama:** Hangi kitabın kimde olduğunu, iade tarihlerini ve geciken kitapları takip edin.
+* 📅 **Rezervasyon İşlemleri:** Üyelerin, o an başkasında olan bir kitabı veya mevcut bir kitabı ayırtmasını (rezerve etmesini) sağlama ve iade bildirimi gönderme.
+* 📈 **Gecikme Takibi & Ceza Sistemi:** Ödünç alma ve iade tarihlerini takip edin; gecikme durumları için otomatik uyarı ve ceza sistemi uygulayın.
+* ⭐ **Sosyal Etkileşim:** Kullanıcıların kitaplara yorum yapması, puan vermesi ve tavsiye listeleri oluşturması için platform sağlama.
+* 💡 **Akıllı Öneri Sistemi:** Kullanıcıların okuma geçmişine dayalı olarak kişiselleştirilmiş kitap önerileri sunma.
 
 ---
 
