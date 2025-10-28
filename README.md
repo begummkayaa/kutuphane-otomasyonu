@@ -32,7 +32,7 @@ Bu projenin geliştirilmesinde kullanılan temel teknolojiler:
 ## 🖥️ Kurulum ve Çalıştırma
 Projeyi yerel makinenizde çalıştırmak için:
 
-1.📥 Depoyu bilgisayarınıza klonlayın veya ZIP olarak indirin.
-2.🔧 `KutuphaneOtomasyonu.sln` dosyasını Visual Studio 2017 veya daha yeni bir sürüm ile açın.
-3.▶️ **(ÖNEMLİ)** Proje içindeki veritabanı bağlantı ayarlarını (`connection string`) kendi yerel veritabanı sunucunuza göre güncelleyin.
-4.🎉 Projeyi "Build" (Derle) edin ve "Start" (Başlat) butonuna basarak çalıştırın.
+* 1.📥 Depoyu bilgisayarınıza klonlayın veya ZIP olarak indirin.
+* 2.🔧 `KutuphaneOtomasyonu.sln` dosyasını Visual Studio 2017 veya daha yeni bir sürüm ile açın.
+* 3.▶️ **(ÖNEMLİ)** Proje içindeki veritabanı bağlantı ayarlarını (`connection string`) kendi yerel veritabanı sunucunuza göre güncelleyin.
+* 4.🎉 Projeyi "Build" (Derle) edin ve "Start" (Başlat) butonuna basarak çalıştırın.
